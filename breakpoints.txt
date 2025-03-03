@@ -1,0 +1,11 @@
+Mobile Phones xs - < 576px
+
+Large Mobile Phones sm - (576px - 767px)
+
+Tablets md - (768px - 991px)
+
+Laptops lg - (992px - 1199px)
+
+Desktops xl - (1200px - 1399px)
+
+Large Screens xxl - (>=1400px)
